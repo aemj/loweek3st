@@ -1,4 +1,9 @@
+jsonschema==4.25.1
+jsonschema-specifications==2025.9.1
 openai==1.109.1
 openai-agents==0.3.2
 python-dotenv==1.1.1
 streamlit==1.50.0
+types-requests==2.32.4.20250913
+typing-inspection==0.4.1
+typing_extensions==4.15.0
